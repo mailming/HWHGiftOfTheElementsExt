@@ -13,8 +13,8 @@
 // @match           https://www.hero-wars.com/*
 // @match           https://apps-1701433570146040.apps.fbsbx.com/*
 // @run-at          document-start
-// @downloadURL https://update.greasyfork.org/scripts/551144/HWHGiftOfTheElementsExt.user.js
-// @updateURL https://update.greasyfork.org/scripts/551144/HWHGiftOfTheElementsExt.meta.js
+// @downloadURL https://github.com/mailming/HWHGiftOfTheElementsExt/raw/refs/heads/main/HWHGiftOfTheElementsExt.user.js
+// @updateURL https://github.com/mailming/HWHGiftOfTheElementsExt/raw/refs/heads/main/HWHGiftOfTheElementsExt.user.js
 // ==/UserScript==
 
 (function () {
